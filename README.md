@@ -43,6 +43,7 @@ Select a color, and the application will automatically update the values for RGB
 Color Display
 
 The selected color is displayed in a square on the screen. As you change the color values, the square updates in real-time to reflect the color.
+
 3. Converting Colors
 
 When you adjust any color model (RGB, CMYK, or XYZ), the application automatically updates the values in the other two models.
